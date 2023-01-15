@@ -8,9 +8,9 @@ A PROJECT ON HANDWRITING RECOGNITION USING CNN (CONVOLUTIONAL NEURAL NETWORK) :
 
 The implemented model predict a handwritten character with an accuracy of following:
 
-  The validation accuracy: 97%
-  The training accuracy: 95%
-  The validation loss: 8.22%
-  The training loss: 17.2%
+  The validation accuracy: 97% . 
+  The training accuracy: 95% . 
+  The validation loss: 8.22% . 
+  The training loss: 17.2% . 
 
   At first we were trying serialise our model. But after study we recognize that we can't serilise a tensorflowmodel. So, we save the data in secondary memory using keras.
